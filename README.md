@@ -13,7 +13,8 @@ Tech Stack
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white" /><br>
 </div>
 <br><br>
-
+<div align="center">
+<a href="https://github.com/pjeeun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunnunnu&layout=compact" /></a>
 <div align="center">
 <p>  :hammer: Tools</p>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white" />
